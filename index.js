@@ -46,9 +46,9 @@ app.route('/high-scores')
                     });
     });
 
-// app.route('*', (req, res) => {
-//   res.sendFile(path.join(__dirname+'/client/build/index.html'));
-// });
+app.route('*', (req, res) => {
+  res.sendFile(path.join(__dirname+'/client/build/index.html'));
+});
 
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
