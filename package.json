@@ -1,7 +1,6 @@
 {
   "name": "react-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "@babel/runtime": "^7.8.7",
@@ -18,5 +17,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevingorjanc/backend-and-memMatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevingorjanc/backend-and-memMatch/issues"
+  },
+  "homepage": "https://github.com/kevingorjanc/backend-and-memMatch#readme",
+  "description": ""
 }
