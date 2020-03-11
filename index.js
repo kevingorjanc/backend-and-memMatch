@@ -45,6 +45,10 @@ app.route('/high-scores')
                     });
     });
 
+app.route('*', (req, res) => {
+  res.sendFile(path.join(__dirname+'/client/build/index.html'));
+});
+
 const port = process.env.PORT || 5000;
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
