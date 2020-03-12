@@ -15,11 +15,7 @@ app.use(bodyParser.json());
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')));
 
-app.route('/favicon.ico')
-    .get( (req, res) => {
-        console.log(req.body);
-        res.send("this is from back");
-    });
+
 app.route('/high-scores')
     .get( (request, response) => {
         console.log("responding");
