@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978552db-d07a-4a6d-aed6-ee61ee3d5718" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/build/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/precache-manifest.a8a3caa4dc5970152c89792d169394b8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/css/main.ae4520dd.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/css/main.ae4520dd.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/2.bca085b1.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/2.bca085b1.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/2.bca085b1.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/main.3b58b368.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/main.3b58b368.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/runtime-main.d7c547f7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/js/runtime-main.d7c547f7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/media/highscores-title.d40d221d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/build/static/media/memory-match.034b4acc.svg" afterDir="false" />
-    </list>
+    <list default="true" id="978552db-d07a-4a6d-aed6-ee61ee3d5718" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
